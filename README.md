@@ -6,7 +6,11 @@
 # RUSocial In Business Since 2023 (Experience Since 2018 ;))
 
 # Price
-- 100$ Invite to github source
+- 100$ Invite to Github Source
+
+# Features
+- Zero Bans
+- Auto IMAP + POP3 Enabler
 
 # Fully Updated On 3/31/25
 - Utilizes NextCaptcha / CapSolver / Static Proxies / Rotating Proxies
