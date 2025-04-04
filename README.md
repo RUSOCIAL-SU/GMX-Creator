@@ -8,9 +8,11 @@
 # Price
 - 100$ Invite to Github Source
 
+# Zero Bans
+
 # Features
-- Zero Bans
 - Auto IMAP + POP3 Enabler
+- Static / Rotating Proxy Support
 
 # Fully Updated On 3/31/25
 - Utilizes NextCaptcha / CapSolver / Static Proxies / Rotating Proxies
