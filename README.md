@@ -13,6 +13,8 @@
 # Features
 - Auto IMAP + POP3 Enabler
 - Static / Rotating Proxy Support
+- Can Run On Low Specs
+- Linux ONLY Support (So you'll need a VPS)
 
 # Fully Updated On 3/31/25
 - Utilizes NextCaptcha / CapSolver / Static Proxies / Rotating Proxies
