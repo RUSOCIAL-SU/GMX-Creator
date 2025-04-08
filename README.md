@@ -6,7 +6,7 @@
 # RUSocial In Business Since 2023 (Experience Since 2018 ;))
 
 # Price
-- 100$ Invite to Github Source
+- 100$ Invite to Github Source Repo
 
 # Zero Bans
 
