@@ -1,5 +1,3 @@
-## GMX Creator
-
 # Contact Discord: rusocial (794009760755351593)
 # Official Discord Server https://discord.gg/rusocial
 # Our Site: https://rusocial.io
