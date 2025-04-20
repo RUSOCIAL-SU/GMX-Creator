@@ -15,7 +15,7 @@
 - Linux ONLY Support (So you'll need a VPS)
 
 # Fully Updated On 4/20/25
-- Utilizes NextCaptcha / CapSolver / Static Proxies / Rotating Proxies
+- Utilizes FoxSolver / CapSolver / Static Proxies / Rotating Proxies
 
 https://github.com/user-attachments/assets/43efe653-516a-42f7-bae9-0a6ad3b78d20
 
