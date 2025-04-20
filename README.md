@@ -14,7 +14,8 @@
 - Can Run On Low Specs
 - Linux ONLY Support (So you'll need a VPS)
 
-# Fully Updated On 4/15/25
+# Fully Updated On 4/20/25
 - Utilizes NextCaptcha / CapSolver / Static Proxies / Rotating Proxies
 
-https://github.com/user-attachments/assets/6915fc67-17d5-46e1-96d5-051a6f90af46
+https://github.com/user-attachments/assets/43efe653-516a-42f7-bae9-0a6ad3b78d20
+
