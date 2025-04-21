@@ -17,5 +17,8 @@
 # Fully Updated On 4/20/25
 - Utilizes FoxSolver / CapSolver / Static Proxies / Rotating Proxies
 
+# Blacklists
+- https://paste.dmca.sh/paste/144a0d80-c791-411c-b732-bc872e805d17
+
 https://github.com/user-attachments/assets/43efe653-516a-42f7-bae9-0a6ad3b78d20
 
