@@ -14,8 +14,8 @@
 - Can Run On Low Specs
 - Linux ONLY Support (So you'll need a VPS)
 
-# Fully Updated On 4/20/25
-- Utilizes FoxSolver / CapSolver / Static Proxies / Rotating Proxies
+# Fully Updated On 5/2/25
+- Utilizes FreeCap / CapSolver / Static Proxies / Rotating Proxies
 
 # Blacklists
 - https://paste.dmca.sh/paste/144a0d80-c791-411c-b732-bc872e805d17
