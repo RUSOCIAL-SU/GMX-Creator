@@ -6,7 +6,7 @@
 # For B2B Only
 - We will not sell you if you're not doing OFM, Business Promotions (No Account Shops / No Cheats / No Malware / No Other Bots / No B4U / No Pump And Dumps / No Pyramid Schemes / No Scams)
 
-# Price
+## Price
 - 100$ Invite to Github Source Repo
 
 # Zero Bans
