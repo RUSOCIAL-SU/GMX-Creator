@@ -17,7 +17,7 @@
 - Can Run On Low Specs
 - Linux ONLY Support (So you'll need a VPS)
 
-# Fully Updated On 5/2/25
+# Fully Updated On 5/18/25 (UNFLAGGED)
 - Utilizes FreeCap / CapSolver / Static Proxies / Rotating Proxies
 
 # Blacklists
