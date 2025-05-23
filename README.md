@@ -9,7 +9,7 @@
 # Price
 - 100$ Invite to Github Source Repo
 
-## Zero Bans
+# Zero Bans
 
 # Features
 - Auto IMAP + POP3 Enabler
