@@ -3,7 +3,7 @@
 # Our Site: https://rusocial.io
 # RUSocial In Business Since 2023 (Experience Since 2018 ;))
 
-#$ For B2B (business-to-business) Only
+# For B2B (business-to-business) Only
 - We will not sell you if you're not doing OFM, Business Promotions (No Account Shops / No Cheats / No Malware / No Other Bots / No B4U / No Pump And Dumps / No Pyramid Schemes / No Scams)
 
 # Price
