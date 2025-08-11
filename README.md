@@ -1,9 +1,12 @@
+> **⚠️ WARNING:**  
+> **‼️ WE DO NOT DEAL ON TELEGRAM — WATCH OUT FOR SCAMMERS ‼️**
+
 # Contact Discord: rusocial (794009760755351593)
 # Official Discord Server https://discord.gg/rusocial
 # Our Site: https://rusocial.io
 # RUSocial In Business Since 2023 (Experience Since 2018 ;))
 
-## For B2B (business-to-business) Only
+# For B2B (business-to-business) Only
 - We will not sell you if you're not doing OFM, Business Promotions (No Account Shops / No Cheats / No Malware / No Other Bots / No B4U / No Pump And Dumps / No Pyramid Schemes / No Scams)
 
 # Price
@@ -26,4 +29,5 @@
 # Video Showcase
 https://github.com/user-attachments/assets/43efe653-516a-42f7-bae9-0a6ad3b78d20
 
-
+> **⚠️ WARNING:**  
+> **‼️ WE DO NOT DEAL ON TELEGRAM — WATCH OUT FOR SCAMMERS ‼️**
