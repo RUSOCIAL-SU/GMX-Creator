@@ -24,7 +24,7 @@
 - Utilizes FreeCap / CapSolver / Static Proxies / Rotating Proxies
 
 # Blacklists
-- https://paste.dmca.sh/paste/ff9cc4d3-0d11-48b8-8614-c5dc60a13f14
+- https://paste.dmca.sh/paste/167876e4-0c10-428f-b5af-d0b0f3d88640
 
 # Video Showcase
 https://github.com/user-attachments/assets/43efe653-516a-42f7-bae9-0a6ad3b78d20
