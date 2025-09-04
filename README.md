@@ -1,32 +1,25 @@
-> **⚠️ WARNING:**  
-> **‼️ WE DO NOT DEAL ON TELEGRAM — WATCH OUT FOR SCAMMERS ‼️**
+# GMX Creator
 
-# Contact Discord: rusocial (794009760755351593)
-# Official Discord Server https://discord.gg/rusocial
-# Our Site: https://rusocial.io
-# RUSocial In Business Since 2023 (Experience Since 2018 ;))
+# Requirements
+- Linux VPS Debian 12 (Any Specs)
+- CapSolver API Key For IMAP
+- CaptchaFox API Key For Register
 
-# For B2B (business-to-business) Only
-- We will not sell you if you're not doing OFM, Business Promotions (No Account Shops / No Cheats / No Malware / No Other Bots / No B4U / No Pump And Dumps / No Pyramid Schemes / No Scams)
+# Install
+- apt update && apt upgrade -y && apt install python3-pip -y
+- pip install capsolver --break-system-packages
+- pip install curl-cffi --break-system-packages
+- pip install loguru --break-system-packages
+- pip install asyncio --break-system-packages
+- pip install logger --break-system-packages
+- pip install aiohttp --break-system-packages
 
-# Price
-- 100$ Invite to Github Source Repo
+# Run
+- put CapSolver API key here https://github.com/RUSOCIAL-SU/GMX-Creator/blob/main/main.py#L17 on your VPS
+- put FreeCap API key here https://github.com/RUSOCIAL-SU/GMX-Creator/blob/main/main.py#L97 on your VPS
+- put proxies in proxies.txt (Format username:password@ip:port) (Rotating Or 5-10 mins)
+- python3 main.py
 
-# Zero Bans
-
-# Features
-- Static / Rotating Proxy Support
-- Can Run On Low Specs
-- Linux ONLY Support (So you'll need a VPS)
-
-# Fully Updated On 8/9/25 (UNFLAGGED)
-- Utilizes FreeCap / CapSolver / Static Proxies / Rotating Proxies
-
-# Blacklists
-- https://paste.dmca.sh/paste/981161db-527a-4b18-962c-c6597a4b23bb
-
-# Video Showcase
-https://github.com/user-attachments/assets/43efe653-516a-42f7-bae9-0a6ad3b78d20
-
-> **⚠️ WARNING:**  
-> **‼️ WE DO NOT DEAL ON TELEGRAM — WATCH OUT FOR SCAMMERS ‼️**
+# Proxy Requirements / Recommendations
+- Only USE USA PROXIES
+- https://smartproxy.com is best for this but requires ID Upload
