@@ -16,7 +16,7 @@
 
 # Run
 - put CapSolver API key here https://github.com/RUSOCIAL-SU/GMX-Creator/blob/main/main.py#L17 on your VPS
-- put FreeCap API key here https://github.com/RUSOCIAL-SU/GMX-Creator/blob/main/main.py#L97 on your VPS
+- put CaptchaFox API key here https://github.com/RUSOCIAL-SU/GMX-Creator/blob/main/main.py#L97 on your VPS
 - put proxies in proxies.txt (Format username:password@ip:port) (Rotating Or 5-10 mins)
 - python3 main.py
 
